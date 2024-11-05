@@ -1,2 +1,5 @@
-# traveler_s_game
-Code sample of Traveler's Game
+# Traveler's Game 
+Code sample of Traveler's Game. Other assets including 3D art and sounds not included. 
+
+Find the game on [Steam](https://store.steampowered.com/app/2058850/) 
+
